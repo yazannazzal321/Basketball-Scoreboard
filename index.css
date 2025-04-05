@@ -53,25 +53,25 @@ button:active {
 
 .HomeScoreboard {
   background-color: 080001;
-  width: 200px;
+  width: 210px;
   height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
   color: #f94f6d; /* Score color */
-  font-size: 90px; /* Score font size */
+  font-size: 100px; /* Score font size */
   font-family: "Cursed Timer ULiL", sans-serif;
 }
 
 .GuestScoreboard {
   background-color: 080001;
-  width: 200px;
+  width: 210px;
   height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
   color: #f94f6d; /* Score color */
-  font-size: 90px; /* Score font size */
+  font-size: 100px; /* Score font size */
   font-family: "Cursed Timer ULiL", sans-serif;
 }
 
